@@ -1,6 +1,6 @@
 # Casualties: Unknown — Polskie tłumaczenie (PL)
 
-Pełne polskie tłumaczenie gry **Casualties: Unknown** (`PL.json`), obejmujące interfejs użytkownika, przedmioty, konstrukcje, stany postaci (moodles), notatki fabularne, logi E-PDA oraz dialogi wszystkich grywalnych postaci (Eksperyment, Milky, Dune).
+Pełne polskie tłumaczenie gry **Casualties: Unknown 1.0** (`PL.json`), obejmujące interfejs użytkownika, przedmioty, konstrukcje, stany postaci (moodles), notatki fabularne, logi E-PDA oraz dialogi wszystkich grywalnych postaci (Eksperyment, Milky, Dune).
 
 ---
 
@@ -16,7 +16,7 @@ Pełne polskie tłumaczenie gry **Casualties: Unknown** (`PL.json`), obejmujące
 
 ## What is this? (EN)
 
-A complete Polish localization (`PL.json`) for **Casualties: Unknown**, covering UI, items, buildings, moodles, lore notes, E-PDA logs, and all character dialogues (Experiment, Milky, Dune).
+A complete Polish localization (`PL.json`) for **Casualties: Unknown 1.0**, covering UI, items, buildings, moodles, lore notes, E-PDA logs, and all character dialogues (Experiment, Milky, Dune).
 
 ### Installation
 
