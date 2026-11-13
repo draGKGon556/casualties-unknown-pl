@@ -7,10 +7,9 @@ Pełne polskie tłumaczenie gry **Casualties: Unknown 1.0** (`PL.json`), obejmuj
 ## Jak zainstalować (PL)
 
 1. Pobierz plik **`PL.json`** z tego repozytorium.
-2. Otwórz grę **Casualties: Unknown**.
-3. Przejdź do **Settings** → **Language** i kliknij **Translations folder**, aby otworzyć folder tłumaczeń (lub otwórz go ręcznie w plikach gry).
-4. Wrzuć pobrany plik **`PL.json`** do otwartego folderu.
-5. Wróć do gry i w zakładce **Language** wybierz **Polski**.
+2. Otwórz folder z grą, a następnie przejdź do **`CasualtiesUnknown_Data`** → **`Lang`**.
+3. Wrzuć pobrany plik **`PL.json`** do folderu **`Lang`**.
+4. Uruchom grę **Casualties: Unknown**, przejdź do **Settings** → **Language** i wybierz **Polski**.
 
 ---
 
@@ -21,9 +20,8 @@ A complete Polish localization (`PL.json`) for **Casualties: Unknown 1.0**, cove
 ### Installation
 
 1. Download **`PL.json`** from this repository.
-2. Launch **Casualties: Unknown**.
-3. Go to **Settings** → **Language** and click **Translations folder**.
-4. Place **`PL.json`** inside that folder.
-5. Select **Polski** from the **Language** menu.
+2. Open the game folder and navigate to **`CasualtiesUnknown_Data`** → **`Lang`**.
+3. Place **`PL.json`** inside the **`Lang`** folder.
+4. Launch **Casualties: Unknown**, go to **Settings** → **Language**, and select **Polski**.
 
 <!-- Translated by AI -->
